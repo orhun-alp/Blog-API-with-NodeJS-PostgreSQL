@@ -1,0 +1,6 @@
+/node_modules
+.env
+apikey.txt
+elasticSearch.js
+posts.json
+users.json
